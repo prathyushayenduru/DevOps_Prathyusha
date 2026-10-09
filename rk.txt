@@ -1,0 +1,8 @@
+review pipeline config
+          
+export system config
+stop docker container
+run deployment pipeline
+inspect docker logs
+restore system backup
+finalize deploy pipeline
